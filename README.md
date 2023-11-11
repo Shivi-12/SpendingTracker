@@ -15,7 +15,6 @@ Spending Tracker is a Java application for managing personal expenses. It provid
    
 ## Screenshots
 
-Include screenshots or GIFs showcasing the main frames of your application.
 
 ## Getting Started
 
